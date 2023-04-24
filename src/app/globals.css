@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+  color: brown;
+  font-style: italic;
+  font-weight: bold;
+  background: rgb(103, 109, 52);
+}
+
+#four {
+  background-image: url("https://thumbs.dreamstime.com/b/business-lion-glasses-uses-laptop-ai-generated-business-lion-glasses-uses-laptop-ai-generated-274099456.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#three {
+  background-image: url("https://thumbs.dreamstime.com/b/business-tiger-glasses-uses-laptop-ai-generated-268816381.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#three:hover {
+  background-image: url("https://thumbs.dreamstime.com/b/business-tiger-glasses-uses-laptop-ai-generated-268179759.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#eleven:hover {
+  background-image: url("/eleven.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#eleven {
+  background-image: url("/eleven.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#twelve {
+  background-image: url("https://thumbs.dreamstime.com/b/hacker-works-dark-room-hooded-cat-uses-computer-illustration-generative-ai-concept-spy-ransomware-cyber-technology-hack-270098110.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#fifteen {
+  background-image: url("https://thumbs.dreamstime.com/b/hacker-works-dark-room-hooded-cat-uses-computer-illustration-generative-ai-concept-spy-ransomware-cyber-technology-hack-270098107.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#fourteen {
+  background-image: url("/fourteen.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#thurteen {
+  background-image: url("https://thumbs.dreamstime.com/b/hacker-cat-wearing-hoodie-hacking-laptop-created-generative-ai-hacker-cat-wearing-hoodie-hacking-laptop-267698623.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
